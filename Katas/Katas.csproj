@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FirstReverse.cs" />
     <Compile Include="HighAndLow.cs" />
     <Compile Include="FirstFactorial.cs" />
     <Compile Include="SumOfOddNumbers.cs" />
