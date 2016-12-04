@@ -43,6 +43,7 @@
     <Compile Include="FirstReverse.cs" />
     <Compile Include="HighAndLow.cs" />
     <Compile Include="FirstFactorial.cs" />
+    <Compile Include="LongestWord.cs" />
     <Compile Include="SumOfOddNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
